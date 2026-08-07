@@ -22,10 +22,5 @@ Download the latest pre-compiled `.zip` from the [Releases](https://github.com/k
 
 **Requirements:** Python 3.10+
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/kacperg662/minimal-metronome.git](https://github.com/kacperg662/minimal-metronome.git)
-   cd minimal-metronome
-
 ## Author
 Kacper Górak
